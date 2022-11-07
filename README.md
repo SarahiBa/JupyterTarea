@@ -18,3 +18,5 @@ en múltiples lenguajes.**
 -Control de versiones.
 -Permite colaboración (JupyterHub).
 -Soporta más de 50 lenguajes de programación.
+
+![Logo](./Logo.png)
